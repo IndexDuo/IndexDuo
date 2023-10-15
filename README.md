@@ -6,7 +6,6 @@ Developer, Designer & Student
 
 *   🌍  I'm based in Orlando, FL
 *   🖥️  See my portfolio at [indexduo.me](http://www.indexduo.me)
-*   ✉️  You can contact me at [Discord @indexduo](mailto:Discord @indexduo)
 *   🚀  I'm currently working on [my portfolio](http://github.com/IndexDuo/indexduo.github.io)
 *   🧠  I'm learning Agile web development Accessibility in web design
 *   🤝  I'm open to collaborating on a wide range of projects! My curiosity knows no bounds, whether it's delving into machine learning, harnessing the power of Azure, mastering diverse programming languages, or even exploring non-tech realms. Let's team up and make something extraordinary happen!
