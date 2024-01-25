@@ -3,13 +3,14 @@
 
 Developer, Designer & Student
 -----------------------------
+Hi! I am a web designer based in Orlando, FL. I specialize in designing and developing aesthetically pleasing, engaging, and accessible web experiences. I love working in a group and learning new things as I go. Whether it's web design or the newest topic in tech like machine learning, I'm always eager to learn and stay on the cutting edge. 
 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1QJ8XZyCn8cXMfwwvr8suFEBjIw0habTd/view?usp=sharing)
 * 🚀  I'm currently working on [my portfolio](http://github.com/IndexDuo/indexduo.github.io)
-* 🧠  I'm learning Agile web development and Accessibility in web design
-* 🤝  I'm open to collaborating on a wide range of projects! My curiosity knows no bounds, whether it's delving into machine learning, harnessing the power of Azure, mastering diverse programming languages, or even exploring non-tech realms. Let's team up and make something extraordinary happen!
-* ⚡  KPOP MAMAMOO!
+* 🧠  I'm learning Agile web development and WordPress.
+* 🤝  I'm open to collaborating on a wide range of projects including front-end and back-end development, web design, UI/UX, interface design, and developing detailed use cases.
+* ⚡  Outside of my professional life, I enjoy listening to KPOP and playing Minecraft!
 
 ### Skills
 
