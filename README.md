@@ -7,7 +7,7 @@ Hi! I am a web designer based in Orlando, FL. I specialize in designing and deve
 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1QJ8XZyCn8cXMfwwvr8suFEBjIw0habTd/view?usp=sharing)
-* 🚀  I'm currently working on [my portfolio](http://github.com/IndexDuo/indexduo.github.io)
+* 🚀  I'm currently working on [my portfolio](https://indexduo.io/)
 * 🧠  I'm learning Agile web development and WordPress.
 * 🤝  I'm open to collaborating on a wide range of projects including front-end and back-end development, web design, UI/UX, interface design, and developing detailed use cases.
 * ⚡  Outside of my professional life, I enjoy listening to KPOP and playing Minecraft!
