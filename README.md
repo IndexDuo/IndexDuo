@@ -3,7 +3,7 @@
 
 Developer, Designer & Student
 -----------------------------
-Hi! I am a web designer based in Orlando, FL. I specialize in designing and developing aesthetically pleasing, engaging, and accessible web experiences. I love working in a group and learning new things as I go. Whether it's web design or the newest topic in tech like machine learning, I'm always eager to learn and stay on the cutting edge. 
+Hi! I am Jing, a web designer based in Orlando, FL. I specialize in designing and developing aesthetically pleasing, engaging, and accessible web experiences. I love working in a group and learning new things as I go. Whether it's web design or the newest topic in tech like machine learning, I'm always eager to learn and stay on the cutting edge. 
 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1QJ8XZyCn8cXMfwwvr8suFEBjIw0habTd/view?usp=sharing)
