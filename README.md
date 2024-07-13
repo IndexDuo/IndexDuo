@@ -6,7 +6,7 @@ Developer, Designer & Student
 Hi! I'm Jing, a web designer based in Orlando, FL. I specialize in designing and developing aesthetically pleasing, engaging, and accessible web experiences. I love working in a group and learning new things as I go. Whether it's web design or the newest topic in tech like ML, I'm always eager to learn and stay on the cutting edge. 
 
 * 🌍  I'm based in Orlando, FL
-* 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1K37bFrsJho1Fg5xApqA2xlezVHTF6_AM/view?usp=drive_link)
+* 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/12rJlrDV0XrBKcjsfQ6_XFFyW9oNnKU2K/view?usp=sharing)
 * 🚀  I'm currently working on... applying for hundreds of jobs and hearing nothing back kjfgbvjkvbAFJjhwjh
 * 🧠  I'm trying to get back to Python again for backend Web Dev and ML
 * 🤝  I'm open to collaborating on a wide range of projects including front-end and back-end development, hackathons, or anything that sounds cool. My current tech stack doesn't restrict me from building amazing projects that require more skills. I tend to learn more on the job. (No Java. Learned it in HS and made me decide to not major in CS.. AGAIN)
