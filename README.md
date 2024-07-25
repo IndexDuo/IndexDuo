@@ -7,10 +7,10 @@ Hi! I'm Jing, a web designer based in Orlando, FL. I specialize in designing and
 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/12rJlrDV0XrBKcjsfQ6_XFFyW9oNnKU2K/view?usp=sharing)
-* 🚀  I'm currently working on... applying for hundreds of jobs and hearing nothing back kjfgbvjkvbAFJjhwjh
-* 🧠  I'm trying to get back to Python again for backend Web Dev and ML
-* 🤝  I'm open to collaborating on a wide range of projects including front-end and back-end development, hackathons, or anything that sounds cool. My current tech stack doesn't restrict me from building amazing projects that require more skills. I tend to learn more on the job. (No Java. Learned it in HS and made me decide to not major in CS.. AGAIN)
-* ⚡  Outside of my professional life, I enjoy listening to KPOP and going to Universal whenever I can.
+* 🚀  I'm currently working on... my master's degree in web design!
+* 🧠  I'm trying to get an internship or a job in web or UI/UX design.
+* 🤝  I'm open to collaborating on a wide range of projects including front-end and back-end development, hackathons, or anything that sounds cool. My current tech stack doesn't restrict me from building amazing projects that require more skills. I tend to learn more on the job. 
+* ⚡  Outside of my professional life, I enjoy listening to KPOP and going to Universal whenever it's not 100 degrees outside.
 
 ### Skills
 
