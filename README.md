@@ -6,7 +6,7 @@ Developer, Designer & Student
 Hi! I'm Jing, a web designer based in Orlando, FL. I specialize in designing and developing aesthetically pleasing, engaging, and accessible web experiences. I love working in a group and learning new things as I go. Whether it's web design or the newest topic in tech like ML, I'm always eager to learn and stay on the cutting edge. 
 
 * 🌍  I'm based in Orlando, FL
-* 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1LLBHW9qEiv6qOdSO9TN1rmOAFPs-gyDK/view?usp=sharing)
+* 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1hQZEL7adQn4eh5BRKnQ2zdt3TsSptol-/view?usp=sharing)
 * 🚀  I'm currently working on... my master's degree!
 * 🧠  I'm trying to ~~get an internship or a job in web or UI/UX design~~ I got a UI/UX internship opportunity with Universal Orlando!!! My favorite place on this planet!!! It's truly a dream come true!!!
 * 🤝  I'm open to collaborating on a wide range of projects including front-end and back-end development, hackathons, or anything that sounds cool. My current tech stack doesn't restrict me from building amazing projects that require more skills. I tend to learn more on the job. 
