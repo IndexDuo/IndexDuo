@@ -7,10 +7,10 @@ Hi! I'm Jing, a web designer based in Orlando, FL. I specialize in designing and
 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1hQZEL7adQn4eh5BRKnQ2zdt3TsSptol-/view?usp=sharing)
-* 🚀  I'm currently working on [Universal Scavenger Hunt Project](https://github.com/IndexDuo/Universal-Scavenger-Hunt)
-* 🧠  This is my brain. It's pink :)
-* 🤝  I'm open to collaborating on a wide range of projects including front-end and back-end development, hackathons, or anything that sounds cool. My current tech stack doesn't restrict me from building amazing projects that require more skills. I tend to learn more on the job. 
-* ⚡  Outside of my professional life, I enjoy listening to KPOP and going to Universal whenever it's not 100 degrees outside.
+* 🚀  I'm currently building my Minecraft skills
+* 🧠  Big brain
+* 🤝  I'm open to collaborating on a wide range of projects, including front-end and back-end development, hackathons, or anything that sounds cool. My current tech stack doesn't restrict me from building amazing projects that require more skills. I tend to learn more on the job. 
+* ⚡  Outside of my professional life, I enjoy listening to KPOP and watching Technoblade's Potato War series
 
 ### Skills
 
