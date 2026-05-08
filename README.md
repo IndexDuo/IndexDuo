@@ -5,24 +5,40 @@ Developer, Designer & Student
 -----------------------------
 Hi! I'm Jing, a web designer based in Orlando, FL. I specialize in designing and developing aesthetically pleasing, engaging, and accessible web experiences. I love working in a group and learning new things as I go. Whether it's web design or the newest topic in tech like ML, I'm always eager to learn and stay on the cutting edge. 
 
-* 🌍  I'm based in Orlando, FL
+* 🌍  I'm based in Florida, US
 * 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1hQZEL7adQn4eh5BRKnQ2zdt3TsSptol-/view?usp=sharing)
-* 🚀  I'm currently building my Minecraft skills
+* 🚀  To the MOOON
 * 🧠  Smol brain
 * 🤝  I'm open to collaborating on a wide range of projects, including front-end and back-end development, hackathons, or anything that sounds cool. My current tech stack doesn't restrict me from building amazing projects that require more skills. I tend to learn more on the job. 
-* ⚡  Outside of my professional life, I enjoy listening to KPOP and watching Technoblade's Potato War series
+* ⚡  SPEEEED
+
 
 ### Skills
 
+<code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" /></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" /></a></code>
+<code><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" /></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" /></a></code>
+<code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" /></a></code>
+<code><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" /></a></code>
+<code><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" /></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" /></a></code>
+<code><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express" /></a></code>
+<code><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" /></a></code>
+<code><a href="https://apple.com" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" alt="MacOS" /></a></code>
+<code><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" /></a></code>
+<code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" /></a></code>
+<code><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" /></a></code>
+<code><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" /></a></code>
+<code><a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img height="36" src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" /></a></code>
+<code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img height="36" src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop" /></a></code>
+<code><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" /></a></code>
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
 
+### Social
 
-### Socials
+<code><a href="https://discord.com/users/indexduo" target="_blank" rel="noreferrer"><img height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" /></a></code>
 
-<p align="left"> <a href="https://discord.com/users/indexduo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></p>
 
 ### Badges
 
@@ -30,5 +46,4 @@ Hi! I'm Jing, a web designer based in Orlando, FL. I specialize in designing and
 
 <a href="http://www.github.com/indexduo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=indexduo&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/indexduo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indexduo&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+[![Top Languages](https://github-readme-stats-phi-orcin-26.vercel.app/api/top-langs/?username=indexduo&layout=compact&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/indexduo)
