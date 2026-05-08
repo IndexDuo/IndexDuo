@@ -40,9 +40,7 @@ Hi! I'm Jing, a web designer based in Orlando, FL. I specialize in designing and
 <code><a href="https://discord.com/users/indexduo" target="_blank" rel="noreferrer"><img height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" /></a></code>
 
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/indexduo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=indexduo&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
