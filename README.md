@@ -9,33 +9,6 @@ Hi, I'm Jing!
 * 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1a-cTm9Apud4KEXqka5mdAQ6cJ3AtGA7J/view?usp=sharing)
 
 
-### Skills
-
-<code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" /></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" /></a></code>
-<code><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" /></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" /></a></code>
-<code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" /></a></code>
-<code><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" /></a></code>
-<code><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" /></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" /></a></code>
-<code><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express" /></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" /></a></code>
-<code><a href="https://apple.com" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" alt="MacOS" /></a></code>
-<code><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" /></a></code>
-<code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" /></a></code>
-<code><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" /></a></code>
-<code><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" /></a></code>
-<code><a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img height="36" src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" /></a></code>
-<code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img height="36" src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop" /></a></code>
-<code><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" /></a></code>
-
-
-### Social
-
-<code><a href="https://discord.com/users/indexduo" target="_blank" rel="noreferrer"><img height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" /></a></code>
-
-
 ### My GitHub Stats
 
 <a href="http://www.github.com/indexduo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=indexduo&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
