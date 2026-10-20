@@ -6,7 +6,7 @@ Developer, Designer & Student
 Hi, I'm Jing!
 
 * 🌍  I'm based in Florida, US
-* 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1a-cTm9Apud4KEXqka5mdAQ6cJ3AtGA7J/view?usp=sharing)
+* 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1FcyLgrvSUIsbjdX3HuH6hP2sRd3SmDz8/view?usp=sharing)
 
 
 ### My GitHub Stats
