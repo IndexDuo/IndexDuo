@@ -8,6 +8,9 @@ Hi, I'm Jing!
 * 🌍  I'm based in Florida, US
 * 🖥️  See my resume at [Google Drive Link](https://drive.google.com/file/d/1FcyLgrvSUIsbjdX3HuH6hP2sRd3SmDz8/view?usp=sharing)
 
+...and umm... [buy me a $3 iced latte... maybe I'll get matcha sometimes instead... but this is a link where you can overdose me with caffeine](https://buymeacoffee.com/jingli) 
+
+click that super long link!
 
 ### My GitHub Stats
 
